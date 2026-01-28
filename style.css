@@ -19,3 +19,6 @@ table{
 #tbody2 td:hover{
     background-color: blueviolet;
 }
+main{
+    margin: 10px;
+}
