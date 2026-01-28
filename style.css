@@ -1,0 +1,21 @@
+main, td, th{
+    border: solid 1px black ;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+#tbody1 td:hover{
+    background-color: aquamarine;
+}
+#thead1{
+    background-color: aquamarine;
+}
+/*second data*/
+
+#thead2{
+    background-color: blueviolet;
+}
+#tbody2 td:hover{
+    background-color: blueviolet;
+}
